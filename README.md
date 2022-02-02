@@ -1,12 +1,9 @@
 # MyFirstRepo
-test test test
 
-test test test back
+This Repo will contain random excercises and experiments in HTML, CSS and JavaScript.
 
-aaaaand pull again!
+Currently contains:
 
-last test push
+## my_code.js
+Outputs Sum of 2 randomly generated numbers between 1 to 10.
 
-finalizing test...
-
-hello world!
