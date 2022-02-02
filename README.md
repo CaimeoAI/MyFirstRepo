@@ -7,3 +7,5 @@ Currently contains:
 ## my_code.js
 Outputs Sum of 2 randomly generated numbers between 1 to 10.
 
+## index.html
+
